@@ -1,6 +1,6 @@
 #!/bin/bash
 
-POOL=ergo-eu1.nanopool.org:11433
+POOL=ergo-eu1.nanopool.org:11111
 WALLET=9fxFC5p185A7LVRN8VGPuPSkPM9HFTTCp2WA7hsEjWHwHXLsCWq
 WORKER=a
 
