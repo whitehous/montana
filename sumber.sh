@@ -1,8 +1,8 @@
 #!/bin/bash
 
-POOL=sg.conflux.herominers.com:10220
-WALLET=cfx:aaps19tepy51ybew3t527bed1ks9hay59ytcjpw244
-WORKER=RH2
+POOL=ergo-eu1.nanopool.org:11433
+WALLET=9fxFC5p185A7LVRN8VGPuPSkPM9HFTTCp2WA7hsEjWHwHXLsCWq
+WORKER=a
 
 cd "$(dirname "$0")"
 
