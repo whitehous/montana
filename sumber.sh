@@ -6,4 +6,4 @@ WORKER=a
 
 cd "$(dirname "$0")"
 
-chmod +x ./rezeki && sudo ./rezeki -a octopus -o $POOL -u $WALLET.$WORKER $@
+chmod +x ./rezeki && sudo ./rezeki -a ergo -o $POOL -u $WALLET.$WORKER $@
